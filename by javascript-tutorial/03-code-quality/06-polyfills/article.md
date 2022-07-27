@@ -1,4 +1,4 @@
-#폴리필
+# 폴리필
 
 자바스크립트는 끊임없이 진화하는 언어입니다. 새로운 제안(proposal)이 정기적으로 등록, 분석되고, 가치가 있다고 판단되는 제안은 <https://tc39.github.io/ecma262/>에 추가됩니다. 그리고 궁극적으로 [명세서(specification)](http://www.ecma-international.org/publications/standards/Ecma-262.htm)에 등록됩니다.
 
