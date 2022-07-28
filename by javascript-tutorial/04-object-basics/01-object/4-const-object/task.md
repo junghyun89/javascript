@@ -6,8 +6,8 @@
 const user = {
   name: "John"
 };
-*!*
+
 // 아래 코드는 에러 없이 실행될까요?
 user.name = "Pete";
-*/!*
+
 ```
