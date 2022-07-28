@@ -14,11 +14,3 @@ function makeUser() {
 let user = makeUser();
 alert( user.ref.name ); // 결과가 어떻게 될까요?
 ```
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Sta
