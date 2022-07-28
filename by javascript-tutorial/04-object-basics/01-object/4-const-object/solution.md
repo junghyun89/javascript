@@ -8,10 +8,10 @@
 const user = {
   name: "John"
 };
-*!*
+
 // works
 user.name = "Pete";
-*/!*
+
 // error
 user = 123;
 ```
