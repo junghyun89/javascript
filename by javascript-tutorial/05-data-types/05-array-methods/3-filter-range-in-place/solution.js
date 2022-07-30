@@ -5,7 +5,7 @@ function filterRangeInPlace (arr, a, b) {
     let value = arr[i]
     
     // remove if outside of the interval
-    if (val < a || val > b) {
+    if (value < a || value > b) {
       arr.splice(i, 1);
       i--;
     }
