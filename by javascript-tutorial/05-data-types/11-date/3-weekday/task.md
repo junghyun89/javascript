@@ -4,5 +4,5 @@
 
 ```js no-beautify
 let date = new Date(2019, 11, 5);  // 2019년 11월 5일
-alert( getLocalDay(date) );       // 금요일이므로, 5가 출력되어야 함
+alert( getLocalDay(date) );       // 금요일이므로, 5가 출력되어야 함 (한국은 목요일 4)
 ```
