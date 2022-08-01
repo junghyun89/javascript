@@ -6,7 +6,7 @@
 function getSecondsToTomorrow() {
   let now = new Date();
   // 내일 날짜
-  let tomorrow = new Date(now.getFullYear(), now.getMonth(), *!*now.getDate()+1*/!*);
+  let tomorrow = new Date(now.getFullYear(), now.getMonth(), now.getDate()+1);
   let diff = tomorrow - now; // 차이(ms)
   return Math.round(diff / 1000); // 초로 변환
 }
