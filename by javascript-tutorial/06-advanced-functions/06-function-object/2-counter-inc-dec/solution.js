@@ -11,5 +11,3 @@ function makeCounter() {
 
   return counter;
 }
-Footer
-© 2022 GitHub, Inc
